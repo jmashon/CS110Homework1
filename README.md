@@ -1,13 +1,5 @@
 # CS110Homework1
 
-Geometry Calculator
+HW Instructions:
 
-Write a program that displays the following:
-
-Geometry Calculator
-1. Calculate the area of a circle
-2. Calculate the area of a rectangle
-3. Calculate the area of a triangle
-4. Quit
-
-Enter your choice (1-4)
+Write a program which provides the user a menu of options to select from in order to calculate the area of a rectangle, a circle, and a triangle. Provide the user with an option to exit the menu, and do not accepted answers outside the bounds of the offered selection.
