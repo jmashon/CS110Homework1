@@ -1,6 +1,7 @@
 # CS110Homework1
 
 This is assignment for Geometry Calculator
+
 Write a program that displays the following:
 
 Geometry Calculator
